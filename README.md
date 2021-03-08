@@ -4,9 +4,10 @@
 
 | Название проекта  | Отработанные методы |
 |:----------------- |:-------------------:|
-| Аналитика в крупном интернет-магазине      | some wordy text |     **$1600** |
-| col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
+| [Аналитика в крупном интернет-магазине](https://github.com/koptellov/yandex-praktikum-projects/tree/main/01_analysis_of_ab_test_results) | * метод_1
+* метод2 |
+| [Анализ поведения пользователей в мобильном приложении](https://github.com/koptellov/yandex-praktikum-projects/tree/main/02_user_behavior_in_the_mobile_application) | centered |
+| [Аналитика в сервисе по продаже билетов] | are neat |
 
 
 ### Аналитика в крупном интернет-магазине (анализ результатов AB-теста).
